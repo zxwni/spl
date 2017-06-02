@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2017/6/1
- * Time: 14:36
+ * spl 双向列表
  */
 $splObj = new SplDoublyLinkedList();
 $splObj->push(1); //将新的节点添加到链表的顶部(top)

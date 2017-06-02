@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2017/6/1
- * Time: 16:28
+ * spl 迭代器
  */
 
 $fruits = array(

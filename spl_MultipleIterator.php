@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2017/6/1
- * Time: 17:14
+ * spl 迭代器
  */
 $arrId = new ArrayIterator(array(1,2,3,4,5));
 $arrName = new ArrayIterator(array("Jim",'Lucy','Tom'));

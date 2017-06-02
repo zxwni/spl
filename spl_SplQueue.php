@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2017/6/1
- * Time: 16:02
+ * spl 队列
  */
 $queueObj = new SplQueue();
 $queueObj->enqueue("1");//将新的节点添加到队列的顶部(top)

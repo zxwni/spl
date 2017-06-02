@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2017/6/1
- * Time: 15:38
+ * spl 堆栈
  */
 
 $stackObj = new SplStack();
